@@ -21,3 +21,7 @@
 - add more randomisation to the levels, giving different bonuses depending on random powerup discoveries in the underworld.
 	- this adds the dynamic of wanting to get evilness in overworld, or excavating the dungeon to possibly get a really great boon
 - also, this would be really cool with coop mode. -- which I haven't tried yet, so I can't say much more.
+- other/different/alternate narrative storylines can be created
+	- updating dungeons 3 story, or any of the many DLCs
+	- I personally like the idea that there's a narrative foundation to a dungeon run
+	- also, with the addition of the level editor, and existing multitude of props, models, and voicelines, it's (eventually, lol) possible for custom dungeon narratives/runs to be created and shared
