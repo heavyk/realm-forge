@@ -9,11 +9,11 @@
 - when selecting the mission, show which difficulty level the mission have been beat on (maybe put a glow or border around the difficulties that it's been beat on?) (see dungeon run section below).
 
 ### wishlist
-- ability to pause constrution. often times I queue up a number of traps to be built, but then that means that I cannot do any research until all of the traps are built: every time I get enough gold for the next trap, it spends it. the only way to get them to stop building, is to cancel all of the yellow traps, but then I have to re-place them again later
+- ability to pause constrution. often times I queue up a number of traps to be built, but then that means that I cannot do any research until all of the traps are built, cause every time I get enough gold for the next trap, it spends it. the only way to get them to stop building, is to cancel all of the yellow traps, but then I have to re-place them again later, which is annoying
 - ability to a-move (say by holding ctrl or something).
-	- when an enemy unit is within shooting range on either side of the path, the unit will engage it until the enemy unit has left the path, upon which time it'll continue on to the path
-	- when a-moving on a unit, the unit will path toward the unit clicked on, attacking anyone along the way until in range of the target
-		- for example, I ctrl-click to attack the priestess in the back of the group with my gazers, right now, they go straight toward her, often passing swordsmen along the way. I want them to shoot the swordsmen on the way to getting in range of the priestess. to simulate the same thing requires a lot of micro: click on the priestess, wait 0.5s, press X (stop), wait for them to shoot, press the priestess again (and repeat)
+	- when a-moving a click on the ground, any enemy unit gets within shooting/hitting range on thier way to destination, it will engage the enemy until the enemy unit has left some range amount (probably a little more than weapon range), and after having left the range, it'll continue on to the path toward the destination.
+	- when a-moving a click on a unit, the unit will path toward the unit clicked on, attacking anyone along the way that gets in range of each unit (they pause for a second to shoot/swing before continuing on)
+		- for example, I ctrl-click to attack the priestess in the back of the group with my gazers: right now, they go straight toward her, often passing swordsmen along the way. I want them to shoot the swordsmen on the way to getting in range of the priestess. to simulate the same thing requires a lot of micro: click on the priestess, wait 0.5s, press X (stop), wait for them to shoot, press the priestess again (and repeat)
 	- it'd also be a nice touch if the line and arrows drawn are red (attack) instead of green (move)
 
 ### dungeon run
