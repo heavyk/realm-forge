@@ -25,3 +25,9 @@
 	- updating dungeons 3 story, or any of the many DLCs
 	- I personally like the idea that there's a narrative foundation to a dungeon run
 	- also, with the addition of the level editor, and existing multitude of props, models, and voicelines, it's (eventually, lol) possible for custom dungeon narratives/runs to be created and shared
+
+### stuff
+- way to tell snots to automatically add batteries to work units
+- coi-style camera
+- (idle / available / total) snots
+- in dungeon, ability to toggle between tactical mode and hand of terror
