@@ -7,6 +7,8 @@
 	- dig tiles have a blue outline to them. floor tiles have a blue/yellow color to them (depending on if I have the gold). if I drag the floor tiles over the dig tiles (it should turn blue with the floor tile I set), the snot should dig out the tile, then if I don't have the gold, it'll turn yellow and he'll keep digging. however, if I have the gold, immediately after digging, he'll place the floor tile.
 - ability to set floor tiles directly on unexcavated tiles, which the snot will dig out, then put the floor down (same as above but in one step)
 - when selecting the mission, show which difficulty level the mission have been beat on (maybe put a glow or border around the difficulties that it's been beat on?) (see dungeon run section below).
+- ability to scroll the credits with the finger/mouse
+- in mission selecvt sreen, add ability to click on the buff to deactivate it
 
 ### wishlist
 - ability to pause constrution. often times I queue up a number of traps to be built, but then that means that I cannot do any research until all of the traps are built, cause every time I get enough gold for the next trap, it spends it. the only way to get them to stop building, is to cancel all of the yellow traps, but then I have to re-place them again later, which is annoying
