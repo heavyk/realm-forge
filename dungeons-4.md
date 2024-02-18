@@ -35,6 +35,10 @@
 - (idle / available / total) snots
 - in dungeon, ability to toggle between overworld/tactical mode and hand of terror
 
+### bugs?
+- if I have a pylon of might building, it will block all demons from resurrecting, until the pylon is built. I would expect demon resurrection to be higher priority. right now, the only way around it is to delete the pylon.
+- build a torture chamber, then build a torture apparatus, then before it's built, delete it; it'll delete the floor tile underneith as well as the apparatus. none of the other buildings exhibit this behaviour.
+
 ### 2024-01-29 01:05 - fun thought experiment: narrator without a voice
 
 for a moment, I just want to try playing dungeons-4 without a narrator's voice. I know that this would change the perspective from ironic comedy to a fantasy drama, but the idea is that instead of the narrator giving voice commands, instead absolute-evil has to direct everything with noise responces to the user's play style.
