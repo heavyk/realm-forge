@@ -37,7 +37,7 @@
 
 ### bugs?
 - if I have a pylon of might building, it will block all demons from resurrecting, until the pylon is built. I would expect demon resurrection to be higher priority. right now, the only way around it is to delete the pylon.
-- build a torture chamber, then build a torture apparatus, then before it's built, delete it; it'll delete the floor tile underneith as well as the apparatus. none of the other buildings exhibit this behaviour.
+- build a torture chamber, then after the floor tiles are laid down, add a torture apparatus, but before it's built, delete it; it'll delete the floor tile underneith as well as the apparatus. none of the other buildings exhibit this behaviour.
 
 ### 2024-01-29 01:05 - fun thought experiment: narrator without a voice
 
